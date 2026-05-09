@@ -46,7 +46,7 @@ $(document).ready(function () {
   });
 
   //sound effects
-  let plusSound = new Audio("./sounds/plus.mp3");
-  let minusSound = new Audio("./sounds/minus.mp3");
-  let resetSound = new Audio("./sounds/reset.mp3");
+  let plusSound = new Audio("sounds/plus.mp3");
+  let minusSound = new Audio("sounds/minus.mp3");
+  let resetSound = new Audio("sounds/reset.mp3");
 });
